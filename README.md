@@ -1,2 +1,3 @@
 # Noticias
-Práctica de React.Buscador de Noticias usando Class Components
+Práctica de React. 
+Buscador de Noticias usando Class Components
